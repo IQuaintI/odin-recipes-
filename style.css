@@ -1,0 +1,42 @@
+.header{
+    text-align: center; 
+}
+
+body{
+    background-color:wheat;
+}
+
+
+.cookbook{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.container{
+    color: black;  
+    font-size: 30px;  
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.container.lasagna{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.container.fillet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container.cookies{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+}
