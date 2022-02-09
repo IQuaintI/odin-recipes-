@@ -1,0 +1,26 @@
+.header{
+    text-align: center;
+}
+
+body{
+    background-color: wheat;
+}
+
+.para{
+    text-align: center;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.steps{
+    font-size: 25px;
+}
+
+.ingredients{
+    font-size: 25px
+}
